@@ -22,3 +22,4 @@ Happy Coding!
 
 
 The link to the website - https://zippy-choux-6b2328.netlify.app
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a04afaec-ae94-4a14-8a82-5c7dbec45386/deploy-status)](https://app.netlify.com/sites/zippy-choux-6b2328/deploys)
